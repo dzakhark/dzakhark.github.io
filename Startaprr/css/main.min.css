@@ -213,7 +213,7 @@ a {
   .header .logo {
     min-width: 166px;
     height: 53px;
-    background-image: url("../../img/logo.jpg");
+    background-image: url("../img/logo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     -webkit-background-size: contain;
@@ -269,7 +269,7 @@ a {
 
 .banner {
   background-color: #383838;
-  background-image: url("../../img/tablets.jpg");
+  background-image: url("../img/tablets.jpg");
   background-repeat: no-repeat;
   background-position: 50% bottom; }
   .banner .container {
@@ -762,13 +762,13 @@ a {
     .clients .client:hover {
       opacity: 1; }
   .clients .logo1 {
-    background-image: url("../../img/logo1.png"); }
+    background-image: url("../img/logo1.png"); }
   .clients .logo2 {
-    background-image: url("../../img/logo2.png"); }
+    background-image: url("../img/logo2.png"); }
   .clients .logo3 {
-    background-image: url("../../img/logo3.png"); }
+    background-image: url("../img/logo3.png"); }
   .clients .logo4 {
-    background-image: url("../../img/logo4.png"); }
+    background-image: url("../img/logo4.png"); }
 
 .footer {
   background-color: #333333;
